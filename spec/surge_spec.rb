@@ -1,6 +1,6 @@
 require_relative './spec_helper'
 
-SOURCE_FILE="my_url.txt"
+SOURCE_FILE="http://two-bite.surge.sh/"
 
 describe "The file #{SOURCE_FILE}" do
   it 'should be present' do
