@@ -1,1 +1,1 @@
-# You will enter your deployed Surge URL here
+# two-bite.surge.sh
